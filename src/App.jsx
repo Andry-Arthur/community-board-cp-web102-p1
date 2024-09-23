@@ -15,7 +15,7 @@ const App = () => {
                           url='https://www.instagram.com/nyhalalgyro/'
                 ></ItemCard>
                 <ItemCard image='https://vrconcierge.com/wp-content/uploads/2021/12/the-gettysburger-company-gettysburg-pa-food-1-768x512.jpg'
-                          title='The Gettysburger'
+                          title='The Gettysburger Company'
                           type='American'
                           url='https://www.thegettysburgercompany.com/'
                 ></ItemCard>
